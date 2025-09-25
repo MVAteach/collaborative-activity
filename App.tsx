@@ -95,6 +95,9 @@ const App: React.FC = () => {
   return (
     <div className="min-h-screen bg-black text-gray-200 p-4 sm:p-8 flex flex-col items-center">
       <header className="w-full max-w-6xl text-center mb-8">
+        <h2 className="text-xl sm:text-2xl text-green-400/70 mb-2">
+          MVA Global Perspectives Presents:
+        </h2>
         <h1 className="text-4xl sm:text-5xl font-bold text-matrix-green pb-2">
           Collaborative Work Analyzer
         </h1>
